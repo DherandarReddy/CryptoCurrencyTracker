@@ -1,0 +1,21 @@
+.cclEachItem {
+  display: flex;
+  justify-content: space-between;
+  background-size: cover;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.cclImgHead {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: 300;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+
+.eachImg {
+  width: 40px;
+  margin-right: 20px;
+}

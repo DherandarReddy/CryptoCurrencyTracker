@@ -1,0 +1,52 @@
+.total {
+  text-align: center;
+}
+
+.ccItemCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.cclName {
+  color: #00e7ff;
+  font-size: 40px;
+}
+
+.cclImg {
+  width: 50vw;
+}
+
+.cclItemCont {
+  width: 60vw;
+  height: 45vh;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #00e7ff;
+  border-radius: 10px;
+  color: white;
+}
+
+.cclhead {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}
+
+.cclHeadCont {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.cclSubHead {
+  width: 20vw;
+  display: flex;
+  justify-content: space-around;
+}
